@@ -19,8 +19,8 @@ app.use(express.json());
 app.use(cookieParser());
 app.use('/uploads', express.static(__dirname + '/uploads'));
 
-mongoose.connect('mongodb+srv://shithinshetty07:92VYOsQqkaDGglxl@cluster0.fbx95as.mongodb.net/?retryWrites=true&w=majority');
-// 92VYOsQqkaDGglxl
+mongoose.connect('{add your mongodb project link here}');
+
 app.post('/register', async (req,res) => {
   const {username,password} = req.body;
   try{
