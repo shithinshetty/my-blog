@@ -1,7 +1,9 @@
 MERN STACK BLOG
 
 Blog Interface
-!Screenshot (24)](https://github.com/shithinshetty/my-blog/assets/92690951/367b0ef9-78d9-4e96-ad8d-4b18a0abcb91)
+
+
+![Screenshot (24)](https://github.com/shithinshetty/my-blog/assets/92690951/367b0ef9-78d9-4e96-ad8d-4b18a0abcb91)
 
 Create Or Update The Blog
 ![Screenshot (25)](https://github.com/shithinshetty/my-blog/assets/92690951/e9720278-09d0-4967-81fb-263a43752001)
